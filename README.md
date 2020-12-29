@@ -6,6 +6,11 @@ This program was created in order to raise awareness for the severity of the COV
 
 The user is able to select any state or region listed in the dropdown menu of the program. 
 So far, two graphs have been displayed: Total Cases and Total Deaths by state. 
-In the near future, ICU bed capacity will be included in the program. 
+
+# To Do List
+- ICU bed capacity by county/state
+- Prediction model graphs by county/state
+
+
 
 
