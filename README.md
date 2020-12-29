@@ -10,6 +10,7 @@ So far, two graphs have been displayed: Total Cases and Total Deaths by state.
 # To Do List
 - ICU bed capacity by county/state
 - Prediction model graphs by county/state
+- Include API in the program
 
 
 
